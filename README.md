@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramzi Shodmonbekov</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzi2003&label=Profile%20views&color=0e75b6&style=flat" alt="ramzi2003" /> </p>
 
